@@ -1,0 +1,7 @@
+h        packageMGT.sh        SalesRevenue.sh   srm.sh       umf                 var3.sh
+comment.sh         debug.sh     ifelse.sh           martin-task  package.sh           seariseAirline    task.sh      useradd.sh          working_station
+[martin@MartinsTech ~]$ cat if.sh
+NAME="Martin"
+
+if [ "$NAME"="Martin" ]
+then
